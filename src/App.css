@@ -1,0 +1,5 @@
+.taskName h1 {
+   word-wrap: break-word; /* Ensures long words break to the next line */
+   overflow-wrap: break-word; /* Handles text wrapping for long words */
+   white-space: normal; /* Prevents text from staying on one line */
+}
